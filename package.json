@@ -1,0 +1,13 @@
+{
+	"name": "pathon",
+	"version": "1.0.0",
+	"description": "pathon",
+	"main": "index.py",
+	"author": "jason",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {},
+	"scripts": {
+		"watch": "node script/index.js"
+	}
+}
